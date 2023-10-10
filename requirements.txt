@@ -1,7 +1,7 @@
 Flask==0.10.1
 Flask-Gravatar==0.2.3
 Flask-SQLAlchemy==0.15
-Jinja2==2.6
+Jinja2==2.7.2
 PyYAML==3.11
 SQLAlchemy==0.7.2
 Werkzeug==0.8.3
